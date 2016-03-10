@@ -1,4 +1,4 @@
-
+<table class="tg" style="undefined;table-layout: fixed; width: 939px">
 <colgroup>
 <col style="width: 117px">
 <col style="width: 239px">
